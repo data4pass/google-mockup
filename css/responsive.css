@@ -8,6 +8,9 @@
     .searchFld{
         width: 90%;
     }
+    .clear{
+        clear:left;
+    }
     .footRight{
         float: left;
     }
