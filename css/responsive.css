@@ -1,0 +1,14 @@
+@media (max-width: 1025px){
+    .searchFld{
+        width: 80%;
+    }
+}
+
+@media (max-width: 670px){
+    .searchFld{
+        width: 90%;
+    }
+    .footRight{
+        float: left;
+    }
+}
