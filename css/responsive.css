@@ -8,8 +8,17 @@
     .searchFld{
         width: 90%;
     }
+    #face{
+        height: 100%;
+    }
+    header{
+        background-color: white;
+    }
+    footer{
+        position: static;
+    }
     .clear{
-        clear:left;
+        clear:both;
     }
     .footRight{
         float: left;
